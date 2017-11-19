@@ -1,0 +1,15 @@
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.deps.json
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.runtimeconfig.json
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.runtimeconfig.dev.json
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.dll
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.csprojResolveAssemblyReference.cache
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.AssemblyInfoInputs.cache
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.AssemblyInfo.cs
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.pdb
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.dll
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.pdb
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.dll
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.App\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.pdb

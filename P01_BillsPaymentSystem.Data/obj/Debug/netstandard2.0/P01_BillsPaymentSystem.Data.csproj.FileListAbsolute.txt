@@ -1,0 +1,11 @@
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\bin\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.deps.json
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\bin\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.dll
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\obj\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\obj\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\obj\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.AssemblyInfo.cs
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\obj\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\bin\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.pdb
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\bin\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.Models.dll
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\bin\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.Models.pdb
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\obj\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.dll
+c:\users\mario\source\repos\P01_BillsPaymentSystem.App\P01_BillsPaymentSystem.Data\obj\Debug\netstandard2.0\P01_BillsPaymentSystem.Data.pdb
